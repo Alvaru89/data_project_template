@@ -11,7 +11,9 @@ This python script will help you with the basics math calculations: Add, Substra
 - "sub" to substract the values
 - "mul" to multiply the values
 - "div" to divide the integers.
+
 Args: at least two **integers** for the operation. Floats are **not** supported.
+
 Warning: the operations "sub" and "div" require exactly **2** arguments.
 
 ## Changes to previous version
