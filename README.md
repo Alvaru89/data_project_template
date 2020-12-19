@@ -1,11 +1,11 @@
-#Readme from Calculator
+# Readme from Calculator
 
-##Introduction
+## Introduction
 This python script will help you with the basics math calculations: Add, Substract, Multiply and Divide.
 
-![Image] (https://5.imimg.com/data5/PC/OS/UN/SELLER-92598089/casio-calculator-500x500.jpg)
+![Image](https://5.imimg.com/data5/PC/OS/UN/SELLER-92598089/casio-calculator-500x500.jpg)
 
-##Inputs
+## Inputs
 **Operation**: supports the following strings:
 - "add" for the addition of the values
 - "sub" to substract the values
